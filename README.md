@@ -1,7 +1,7 @@
 # The Muck Player Buff
 
 ## Installation
-Go to releases, then select the most recent release. Once you have installed from the most recent release what you do is drag the .dll into (insert filepath once im done) and then the changes will take place, keep in mind if your playing with friends they will have to install this mod as well.
+Go to releases, then select the most recent release. Once you have installed from the most recent release, you need to unzip the file and then copy the .dll to muck\muck_data\managed in your muck folder (make a backup of the original assembly-csharp.dll), and then the changes will take place, keep in mind if your playing with friends they will have to install this mod as well.
 
 
 ## Properties of the mod
